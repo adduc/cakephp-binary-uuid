@@ -1,0 +1,17 @@
+{
+    "name": "adduc/cakephp-binary-uuid",
+    "description": "Support for treating BINARY(36) as UUID in CakePHP 3.x",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John S Long",
+            "email": "jlong@128.io"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Adduc\\Cake\\BinaryUuid\\": "src/"
+        }
+    }
+}
